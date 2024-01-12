@@ -1,0 +1,146 @@
+{
+    "name": "Cheikh gueye",
+    "landing": {
+        "title": "Hi, I'm Cheikh GUEYE",
+        "subtitles": [
+            "Full-stack developer 🌐",
+            "Exploring cloud ☁️",
+            "Beginner in devops ♾️"
+        ],
+        "professionalDetails": [
+            {
+                "alt": "kaustubh-odak",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/cheikh-gueye-b08777201/"
+            },
+            {
+                "alt": "kausko",
+                "icon": "github",
+                "link": "https://github.com/Amateratsu888"
+            },
+            {
+                "alt": "Email",
+                "icon": "gmail",
+                "link": "mailto:sheguey.works@gmail.com"
+            }
+        ]
+    },
+    "skills": {
+        "Languages known": [
+            "TypeScript",
+            "JavaScript",
+            "Java",
+            "Python",
+            "HTML5",
+            "CSS3"
+        ],
+        "Frontend": [
+            "React",
+            "Next.js",
+            "Angular",
+            "Material-UI",
+            "antdesign",
+            "Bootstrap",
+            "Tailwind css"
+        ],
+        "Backend, Database and Cloud": [
+            "Node.js",
+            "Express",
+            "Nestjs",
+            "Flask",
+            "MongoDB",
+            "Spring",
+            "MySQL",
+            "PostgreSQL",
+            "amazon"
+        ]
+    },
+    "projects": {
+        "baseURI": "https://api.github.com/repos/kausko/",
+        "repositories": [
+            "Portfolio",
+            "Genrealize",
+            "Discord-Google-Drive-Bot",
+            "GitHits",
+            "Mail-em",
+            "JAutoLayout"
+        ]
+    },
+    "experience": {
+        "Work Experience": [
+            {
+                "organization": "Team X",
+                "role": "Full Stack Developer",
+                "type": "Consultant",
+                "startDate": "2022-01-20",
+                "endDate": "2024-01-20",
+                "city": "Dakar",
+                "state": "Dakar",
+                "country": "Sénégal",
+                "url": "https://www.linkedin.com/company/team-x-group/about/",
+                "thumbnail": "/Logo-TeamX-00-12.png"
+            },
+            {
+                "organization": "Gomycode",
+                "role": "Software Engineer's Instructor",
+                "type": "Consultant",
+                "startDate": "2022-01-20",
+                "endDate": "2024-01-20",
+                "city": "Dakar",
+                "state": "Dakar",
+                "country": "Sénégal",
+                "url": "https://www.linkedin.com/school/gomycode/",
+                "thumbnail": "/Gomycode-SN.svg"
+            },
+            {
+                "organization": "Logidoo",
+                "role": "Full Stack Developer",
+                "type": "Consultant",
+                "startDate": "2022-03-26",
+                "endDate": "2024-01-12",
+                "city": "Dakar",
+                "state": "Dakar",
+                "country": "Sénégal",
+                "url": "https://www.linkedin.com/company/2wl/",
+                "thumbnail": "/logologidoo2.png"
+            },
+            {
+                "organization": "AfroSoft",
+                "role": "Full Stack Developer, Tech lead",
+                "type": "Consultant",
+                "startDate": "2023-03-26",
+                "endDate": "2024-01-12",
+                "city": "Dakar",
+                "state": "Dakar",
+                "country": "Sénégal",
+                "url": "https://www.linkedin.com/company/afrosoft/",
+                "thumbnail": "/afso.jpg"
+            }
+        ]
+    },
+    "about": {
+        "description": "I am a passionate web developer and systems architect with a strong background in design and development.I am proficient in JavaScript and have worked with several frameworks such as React JS, Angular, Next JS, Nest JS, Node JS, Express JS and Mongo DB. Additionally, I have DevOps skills including setting up pipelines with tools such as Docker, Jenkins, Kubernetes and Ansible. I am also recognized for my dynamism, my ability to listen and my passion for the development of innovative solutions. ",
+        "picture": "/mypp.jpg",
+        "social": []
+    },
+    "theme": {
+        "light": {
+            "palette": {
+                "type": "light",
+                "background": {
+                    "paper": "#fff",
+                    "default": "#fafafa"
+                }
+            }
+        },
+        "dark": {
+            "palette": {
+                "type": "dark",
+                "background": {
+                    "paper": "#303030",
+                    "default": "#212121"
+                }
+            }
+        }
+    }
+}
